@@ -5,3 +5,8 @@ scikit-learn
 matplotlib     
 seaborn
 ipykernel
+pymongo
+certifi
+
+ # is referencing the local setup.py file
+-e .
