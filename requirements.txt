@@ -7,6 +7,7 @@ seaborn
 ipykernel
 pymongo
 certifi
-
+pymongo[srv]==3.6
+pymongo
  # is referencing the local setup.py file
--e .
+# -e . 
